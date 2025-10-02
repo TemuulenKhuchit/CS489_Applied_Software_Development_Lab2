@@ -1,0 +1,29 @@
+[ {
+  "employeeId" : 5,
+  "firstName" : "Anna",
+  "lastName" : "Wiltord",
+  "employmentDate" : "2023-03-15",
+  "yearlySalary" : 85750.00,
+  "pensionPlan" : null,
+  "enrolled" : false
+}, {
+  "employeeId" : 1,
+  "firstName" : "Daniel",
+  "lastName" : "Agar",
+  "employmentDate" : "2023-01-17",
+  "yearlySalary" : 105945.50,
+  "pensionPlan" : {
+    "planReferenceNumber" : "EX1089",
+    "enrollmentDate" : null,
+    "monthlyContribution" : 100.00
+  },
+  "enrolled" : false
+}, {
+  "employeeId" : 2,
+  "firstName" : "Benard",
+  "lastName" : "Shaw",
+  "employmentDate" : "2022-09-03",
+  "yearlySalary" : 197750.00,
+  "pensionPlan" : null,
+  "enrolled" : false
+} ]

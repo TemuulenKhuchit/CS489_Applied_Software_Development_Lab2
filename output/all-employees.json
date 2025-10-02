@@ -1,0 +1,57 @@
+[ {
+  "employeeId" : 3,
+  "firstName" : "Carly",
+  "lastName" : "Agar",
+  "employmentDate" : "2014-05-16",
+  "yearlySalary" : 842000.75,
+  "pensionPlan" : {
+    "planReferenceNumber" : "SM2307",
+    "enrollmentDate" : "2017-05-17",
+    "monthlyContribution" : 1555.50
+  },
+  "enrolled" : true
+}, {
+  "employeeId" : 2,
+  "firstName" : "Benard",
+  "lastName" : "Shaw",
+  "employmentDate" : "2022-09-03",
+  "yearlySalary" : 197750.00,
+  "pensionPlan" : null,
+  "enrolled" : false
+}, {
+  "employeeId" : 1,
+  "firstName" : "Daniel",
+  "lastName" : "Agar",
+  "employmentDate" : "2023-01-17",
+  "yearlySalary" : 105945.50,
+  "pensionPlan" : {
+    "planReferenceNumber" : "EX1089",
+    "enrollmentDate" : null,
+    "monthlyContribution" : 100.00
+  },
+  "enrolled" : false
+}, {
+  "employeeId" : 6,
+  "firstName" : "Yosef",
+  "lastName" : "Tesfalem",
+  "employmentDate" : "2024-10-31",
+  "yearlySalary" : 100000.00,
+  "pensionPlan" : null,
+  "enrolled" : false
+}, {
+  "employeeId" : 5,
+  "firstName" : "Anna",
+  "lastName" : "Wiltord",
+  "employmentDate" : "2023-03-15",
+  "yearlySalary" : 85750.00,
+  "pensionPlan" : null,
+  "enrolled" : false
+}, {
+  "employeeId" : 4,
+  "firstName" : "Wesley",
+  "lastName" : "Schneider",
+  "employmentDate" : "2023-07-21",
+  "yearlySalary" : 74500.00,
+  "pensionPlan" : null,
+  "enrolled" : false
+} ]
